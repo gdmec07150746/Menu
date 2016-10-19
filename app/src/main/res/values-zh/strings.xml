@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="m1">第一个</string>
+    <string name="m2">第二个</string>
+    <string name="m3">第三个</string>
+</resources>
